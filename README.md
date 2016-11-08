@@ -6,3 +6,4 @@ Question 1: "QA is more than just testing”  Elaborate on this.
 
 Question 2: Here is an architecture that is live and gets frequent updates from developers. It has very little testing of any kind. Given a magic wand, what systems & processes would you implement?
  
+![alt tag](https://raw.githubusercontent.com/FleetCarma/QA-Challenge/master/QA%20Question.png)
